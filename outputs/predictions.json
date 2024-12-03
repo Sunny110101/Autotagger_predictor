@@ -1,0 +1,939 @@
+{
+  "metadata": {
+    "timestamp": "2024-12-01T10:26:37.436033",
+    "num_documents": 20,
+    "version": "1.0"
+  },
+  "results": [
+    {
+      "text": "Apple CEO Tim Cook announced their latest AI initiative at the WWDC 2024 in Cupertino. The company invested $2 billion in developing machine learning models.",
+      "categories": {
+        "artificial_intelligence": 0.36873123049736023,
+        "emerging_tech": 0.26143184304237366
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "predictive analytics",
+          "neural networks",
+          "generative ai",
+          "machine learning",
+          "deep learning"
+        ],
+        "emerging_tech": [
+          "biotechnology",
+          "iot",
+          "edge computing",
+          "robotics",
+          "quantum computing"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:36.963129",
+        "char_count": 157,
+        "word_count": 25,
+        "category_confidence": 0.36873123049736023,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.35007813572883606,
+          "deep learning": 0.34240689873695374,
+          "neural networks": 0.37748318910598755,
+          "nlp": 0.32253119349479675,
+          "computer vision": 0.33078959584236145,
+          "generative ai": 0.35088589787483215,
+          "reinforcement learning": 0.3317566514015198,
+          "chatbots": 0.3154902160167694,
+          "autonomous systems": 0.34178850054740906,
+          "predictive analytics": 0.39645978808403015
+        },
+        "emerging_tech": {
+          "blockchain": 0.20514649152755737,
+          "quantum computing": 0.20821154117584229,
+          "edge computing": 0.23032627999782562,
+          "5g": 0.1463867723941803,
+          "iot": 0.24298126995563507,
+          "virtual reality": 0.14998798072338104,
+          "augmented reality": 0.16473262012004852,
+          "robotics": 0.22786693274974823,
+          "3d printing": 0.1668318659067154,
+          "biotechnology": 0.2587488889694214
+        }
+      }
+    },
+    {
+      "text": "Tesla's Elon Musk partnered with DeepMind researchers to develop autonomous driving systems. The project is based in Austin, Texas and employs over 500 AI specialists.",
+      "categories": {
+        "artificial_intelligence": 0.4069245159626007
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "deep learning",
+          "neural networks",
+          "autonomous systems",
+          "predictive analytics",
+          "machine learning"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:36.987990",
+        "char_count": 167,
+        "word_count": 25,
+        "category_confidence": 0.4069245159626007,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.3872223198413849,
+          "deep learning": 0.4660913944244385,
+          "neural networks": 0.43005040287971497,
+          "nlp": 0.3492622375488281,
+          "computer vision": 0.37848660349845886,
+          "generative ai": 0.3658342659473419,
+          "reinforcement learning": 0.36319658160209656,
+          "chatbots": 0.36662575602531433,
+          "autonomous systems": 0.4114641845226288,
+          "predictive analytics": 0.39552605152130127
+        }
+      }
+    },
+    {
+      "text": "The United Nations Climate Summit in Dubai addressed global warming concerns. Representatives from 195 countries discussed renewable energy initiatives.",
+      "categories": {},
+      "tags": {},
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.013691",
+        "char_count": 152,
+        "word_count": 19,
+        "category_confidence": 0.0,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {}
+    },
+    {
+      "text": "Microsoft and OpenAI expanded their partnership, with Satya Nadella announcing new developments in GPT-5 technology at their Seattle headquarters.",
+      "categories": {
+        "emerging_tech": 0.26080718636512756,
+        "business_strategy": 0.23233912885189056,
+        "healthcare_tech": 0.21395041048526764
+      },
+      "tags": {
+        "emerging_tech": [
+          "edge computing",
+          "5g",
+          "quantum computing",
+          "iot",
+          "3d printing"
+        ],
+        "business_strategy": [
+          "competitive intelligence",
+          "innovation strategy",
+          "growth strategy",
+          "business modeling",
+          "process optimization"
+        ],
+        "healthcare_tech": [
+          "healthcare analytics",
+          "medical devices",
+          "remote patient monitoring",
+          "precision medicine",
+          "clinical decision support"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.035581",
+        "char_count": 146,
+        "word_count": 19,
+        "category_confidence": 0.26080718636512756,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "emerging_tech": {
+          "blockchain": 0.15014344453811646,
+          "quantum computing": 0.24843303859233856,
+          "edge computing": 0.2714770436286926,
+          "5g": 0.2712222933769226,
+          "iot": 0.24113772809505463,
+          "virtual reality": 0.23102569580078125,
+          "augmented reality": 0.22720280289649963,
+          "robotics": 0.2014584243297577,
+          "3d printing": 0.2311076819896698,
+          "biotechnology": 0.2157939225435257
+        },
+        "business_strategy": {
+          "digital transformation": 0.20799152553081512,
+          "innovation strategy": 0.2224668711423874,
+          "market analysis": 0.2079484909772873,
+          "competitive intelligence": 0.23485422134399414,
+          "change management": 0.1857510507106781,
+          "risk management": 0.1925879418849945,
+          "strategic planning": 0.20849387347698212,
+          "business modeling": 0.20994141697883606,
+          "growth strategy": 0.21730971336364746,
+          "process optimization": 0.20940491557121277
+        },
+        "healthcare_tech": {
+          "telemedicine": 0.2079494148492813,
+          "health informatics": 0.21815158426761627,
+          "electronic health records": 0.18783333897590637,
+          "medical devices": 0.2265346199274063,
+          "healthcare analytics": 0.23109860718250275,
+          "remote patient monitoring": 0.219563826918602,
+          "clinical decision support": 0.21825674176216125,
+          "health data security": 0.15002477169036865,
+          "digital therapeutics": 0.21392060816287994,
+          "precision medicine": 0.21884824335575104
+        }
+      }
+    },
+    {
+      "text": "Harvard University researchers published groundbreaking findings in quantum computing. The team collaborated with IBM's quantum research division.",
+      "categories": {
+        "emerging_tech": 0.21984322369098663
+      },
+      "tags": {
+        "emerging_tech": [
+          "quantum computing",
+          "edge computing",
+          "robotics",
+          "blockchain",
+          "biotechnology"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.055554",
+        "char_count": 146,
+        "word_count": 17,
+        "category_confidence": 0.21984322369098663,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "emerging_tech": {
+          "blockchain": 0.23378972709178925,
+          "quantum computing": 0.5970091223716736,
+          "edge computing": 0.2698989510536194,
+          "5g": 0.12396983802318573,
+          "iot": 0.2088400423526764,
+          "virtual reality": 0.14390814304351807,
+          "augmented reality": 0.16509640216827393,
+          "robotics": 0.24285882711410522,
+          "3d printing": 0.18482659757137299,
+          "biotechnology": 0.21949687600135803
+        }
+      }
+    },
+    {
+      "text": "The European Space Agency launched their new Mars rover from the Guiana Space Center. The mission costs approximately \u20ac500 million.",
+      "categories": {},
+      "tags": {},
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.078513",
+        "char_count": 131,
+        "word_count": 20,
+        "category_confidence": 0.0,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {}
+    },
+    {
+      "text": "Amazon's AWS division released new cloud computing services focusing on healthcare data management. The announcement was made at AWS re:Invent in Las Vegas.",
+      "categories": {
+        "cloud_computing": 0.36663174629211426,
+        "data_science": 0.29304027557373047,
+        "emerging_tech": 0.22811740636825562,
+        "business_strategy": 0.2285492867231369,
+        "enterprise_it": 0.2452191561460495,
+        "healthcare_tech": 0.5282835960388184
+      },
+      "tags": {
+        "cloud_computing": [
+          "cloud storage",
+          "microservices",
+          "saas",
+          "multi-cloud",
+          "distributed systems"
+        ],
+        "data_science": [
+          "data pipeline",
+          "data analytics",
+          "business intelligence",
+          "big data",
+          "data visualization"
+        ],
+        "emerging_tech": [
+          "edge computing",
+          "quantum computing",
+          "virtual reality",
+          "iot",
+          "augmented reality"
+        ],
+        "business_strategy": [
+          "competitive intelligence",
+          "risk management",
+          "change management",
+          "innovation strategy",
+          "process optimization"
+        ],
+        "enterprise_it": [
+          "disaster recovery",
+          "it service management",
+          "backup solutions",
+          "compliance management",
+          "network management"
+        ],
+        "healthcare_tech": [
+          "remote patient monitoring",
+          "health data security",
+          "healthcare analytics",
+          "electronic health records",
+          "telemedicine"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.101432",
+        "char_count": 156,
+        "word_count": 23,
+        "category_confidence": 0.5282835960388184,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "cloud_computing": {
+          "saas": 0.37642621994018555,
+          "cloud infrastructure": 0.3525843918323517,
+          "microservices": 0.3779154121875763,
+          "containerization": 0.3213261663913727,
+          "cloud security": 0.3597952127456665,
+          "serverless": 0.36869773268699646,
+          "cloud storage": 0.38742104172706604,
+          "distributed systems": 0.3693986237049103,
+          "cloud migration": 0.33350080251693726,
+          "multi-cloud": 0.37516021728515625
+        },
+        "data_science": {
+          "big data": 0.2823321521282196,
+          "data analytics": 0.2912852466106415,
+          "data visualization": 0.2739575505256653,
+          "statistical analysis": 0.25613823533058167,
+          "data mining": 0.23461104929447174,
+          "business intelligence": 0.29119938611984253,
+          "data modeling": 0.26845958828926086,
+          "data engineering": 0.2683830261230469,
+          "data governance": 0.2595917582511902,
+          "data pipeline": 0.3140749931335449
+        },
+        "emerging_tech": {
+          "blockchain": 0.20757240056991577,
+          "quantum computing": 0.2886544167995453,
+          "edge computing": 0.3418833911418915,
+          "5g": 0.1446974277496338,
+          "iot": 0.24075421690940857,
+          "virtual reality": 0.2514309287071228,
+          "augmented reality": 0.22972151637077332,
+          "robotics": 0.2088906466960907,
+          "3d printing": 0.1359786093235016,
+          "biotechnology": 0.21151746809482574
+        },
+        "business_strategy": {
+          "digital transformation": 0.21284186840057373,
+          "innovation strategy": 0.21997922658920288,
+          "market analysis": 0.21328970789909363,
+          "competitive intelligence": 0.26678183674812317,
+          "change management": 0.22671173512935638,
+          "risk management": 0.2338223159313202,
+          "strategic planning": 0.19719018042087555,
+          "business modeling": 0.2069014012813568,
+          "growth strategy": 0.20662015676498413,
+          "process optimization": 0.2173902690410614
+        },
+        "enterprise_it": {
+          "enterprise architecture": 0.23173202574253082,
+          "it infrastructure": 0.23103007674217224,
+          "system integration": 0.23555979132652283,
+          "it service management": 0.25274020433425903,
+          "network management": 0.23575140535831451,
+          "it governance": 0.2148524969816208,
+          "enterprise security": 0.2286047488451004,
+          "backup solutions": 0.2473261058330536,
+          "disaster recovery": 0.2692643404006958,
+          "compliance management": 0.24410764873027802
+        },
+        "healthcare_tech": {
+          "telemedicine": 0.52299964427948,
+          "health informatics": 0.5124762654304504,
+          "electronic health records": 0.526909351348877,
+          "medical devices": 0.4974735677242279,
+          "healthcare analytics": 0.5318980813026428,
+          "remote patient monitoring": 0.5468795299530029,
+          "clinical decision support": 0.508940577507019,
+          "health data security": 0.5356378555297852,
+          "digital therapeutics": 0.4920150935649872,
+          "precision medicine": 0.49389323592185974
+        }
+      }
+    },
+    {
+      "text": "The World Health Organization reported breakthroughs in mRNA vaccine technology. The research was conducted across laboratories in Geneva and Boston.",
+      "categories": {
+        "emerging_tech": 0.21001242101192474,
+        "healthcare_tech": 0.21096746623516083
+      },
+      "tags": {
+        "emerging_tech": [
+          "biotechnology"
+        ],
+        "healthcare_tech": [
+          "digital therapeutics",
+          "health data security",
+          "precision medicine",
+          "clinical decision support"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.122515",
+        "char_count": 149,
+        "word_count": 20,
+        "category_confidence": 0.21096746623516083,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "emerging_tech": {
+          "blockchain": 0.16142597794532776,
+          "quantum computing": 0.19533805549144745,
+          "edge computing": 0.09856150299310684,
+          "5g": 0.1263168603181839,
+          "iot": 0.13771674036979675,
+          "virtual reality": 0.12173256278038025,
+          "augmented reality": 0.18076929450035095,
+          "robotics": 0.17602865397930145,
+          "3d printing": 0.19813665747642517,
+          "biotechnology": 0.37161803245544434
+        },
+        "healthcare_tech": {
+          "telemedicine": 0.1823388785123825,
+          "health informatics": 0.19804932177066803,
+          "electronic health records": 0.1686650812625885,
+          "medical devices": 0.18288074433803558,
+          "healthcare analytics": 0.1961776167154312,
+          "remote patient monitoring": 0.13539907336235046,
+          "clinical decision support": 0.20077618956565857,
+          "health data security": 0.23603154718875885,
+          "digital therapeutics": 0.273764967918396,
+          "precision medicine": 0.2203749716281891
+        }
+      }
+    },
+    {
+      "text": "Google's DeepMind division achieved new milestones in protein folding prediction using their AlphaFold system.",
+      "categories": {
+        "artificial_intelligence": 0.20955495536327362
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "deep learning",
+          "predictive analytics",
+          "neural networks",
+          "machine learning",
+          "autonomous systems"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.151157",
+        "char_count": 110,
+        "word_count": 14,
+        "category_confidence": 0.20955495536327362,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.2218124270439148,
+          "deep learning": 0.27565962076187134,
+          "neural networks": 0.23731932044029236,
+          "nlp": 0.20881147682666779,
+          "computer vision": 0.17628011107444763,
+          "generative ai": 0.21260103583335876,
+          "reinforcement learning": 0.1856066882610321,
+          "chatbots": 0.18804103136062622,
+          "autonomous systems": 0.21939004957675934,
+          "predictive analytics": 0.2728334665298462
+        }
+      }
+    },
+    {
+      "text": "The Olympic Committee announced that Brisbane will host special AI-powered systems during the 2032 Olympics for athlete performance analysis.",
+      "categories": {
+        "artificial_intelligence": 0.402382493019104
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "autonomous systems",
+          "neural networks",
+          "deep learning",
+          "machine learning",
+          "computer vision"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.177624",
+        "char_count": 141,
+        "word_count": 19,
+        "category_confidence": 0.402382493019104,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.38276246190071106,
+          "deep learning": 0.3872207999229431,
+          "neural networks": 0.3967899978160858,
+          "nlp": 0.3211577832698822,
+          "computer vision": 0.37460801005363464,
+          "generative ai": 0.34250593185424805,
+          "reinforcement learning": 0.35212618112564087,
+          "chatbots": 0.34747418761253357,
+          "autonomous systems": 0.4114704430103302,
+          "predictive analytics": 0.3671269714832306
+        }
+      }
+    },
+    {
+      "text": "Meta's Mark Zuckerberg demonstrated new virtual reality technology at their Connect conference in California. The system uses advanced neural networks.",
+      "categories": {
+        "artificial_intelligence": 0.3313318192958832,
+        "emerging_tech": 0.23089829087257385
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "neural networks",
+          "machine learning",
+          "deep learning",
+          "chatbots",
+          "reinforcement learning"
+        ],
+        "emerging_tech": [
+          "virtual reality",
+          "augmented reality",
+          "quantum computing",
+          "edge computing",
+          "robotics"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.204750",
+        "char_count": 151,
+        "word_count": 20,
+        "category_confidence": 0.3313318192958832,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.3256027400493622,
+          "deep learning": 0.32456156611442566,
+          "neural networks": 0.3703032433986664,
+          "nlp": 0.2351103574037552,
+          "computer vision": 0.30999764800071716,
+          "generative ai": 0.27258047461509705,
+          "reinforcement learning": 0.3148896098136902,
+          "chatbots": 0.32019567489624023,
+          "autonomous systems": 0.294155091047287,
+          "predictive analytics": 0.3027431070804596
+        },
+        "emerging_tech": {
+          "blockchain": 0.16029015183448792,
+          "quantum computing": 0.3246448338031769,
+          "edge computing": 0.2630959153175354,
+          "5g": 0.13214357197284698,
+          "iot": 0.18751166760921478,
+          "virtual reality": 0.5307530164718628,
+          "augmented reality": 0.3743274509906769,
+          "robotics": 0.2571917772293091,
+          "3d printing": 0.17876048386096954,
+          "biotechnology": 0.1483355611562729
+        }
+      }
+    },
+    {
+      "text": "Toyota and Honda announced a joint venture in electric vehicle development, with research centers in Tokyo and Detroit.",
+      "categories": {
+        "emerging_tech": 0.25397324562072754,
+        "digital_marketing": 0.21190854907035828
+      },
+      "tags": {
+        "emerging_tech": [
+          "biotechnology",
+          "robotics"
+        ],
+        "digital_marketing": [
+          "marketing automation",
+          "lead generation",
+          "brand strategy",
+          "social media",
+          "marketing analytics"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.233172",
+        "char_count": 119,
+        "word_count": 18,
+        "category_confidence": 0.25397324562072754,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "emerging_tech": {
+          "blockchain": 0.1536025106906891,
+          "quantum computing": 0.12349750101566315,
+          "edge computing": 0.089998759329319,
+          "5g": 0.16264256834983826,
+          "iot": 0.13165059685707092,
+          "virtual reality": 0.1143660843372345,
+          "augmented reality": 0.0913194864988327,
+          "robotics": 0.24311792850494385,
+          "3d printing": 0.1197032630443573,
+          "biotechnology": 0.2796288728713989
+        },
+        "digital_marketing": {
+          "content marketing": 0.18438275158405304,
+          "social media": 0.20570504665374756,
+          "seo": 0.19583021104335785,
+          "email marketing": 0.2002009153366089,
+          "marketing automation": 0.21606063842773438,
+          "digital advertising": 0.18772244453430176,
+          "marketing analytics": 0.20311713218688965,
+          "brand strategy": 0.20786027610301971,
+          "lead generation": 0.21230661869049072,
+          "conversion optimization": 0.16490447521209717
+        }
+      }
+    },
+    {
+      "text": "The International Monetary Fund released a report on cryptocurrency impact on global economics. Bitcoin reached new highs of $100,000.",
+      "categories": {},
+      "tags": {},
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.264091",
+        "char_count": 134,
+        "word_count": 19,
+        "category_confidence": 0.0,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {}
+    },
+    {
+      "text": "Stanford Medical Center implemented an AI-driven diagnostic system developed in partnership with Johnson & Johnson.",
+      "categories": {
+        "artificial_intelligence": 0.37527161836624146,
+        "data_science": 0.22549080848693848,
+        "healthcare_tech": 0.2934825122356415
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "neural networks",
+          "autonomous systems",
+          "machine learning",
+          "nlp",
+          "predictive analytics"
+        ],
+        "data_science": [
+          "business intelligence",
+          "data pipeline",
+          "data visualization",
+          "data engineering",
+          "data analytics"
+        ],
+        "healthcare_tech": [
+          "clinical decision support",
+          "digital therapeutics",
+          "health informatics",
+          "remote patient monitoring",
+          "precision medicine"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.286328",
+        "char_count": 115,
+        "word_count": 15,
+        "category_confidence": 0.37527161836624146,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.36852797865867615,
+          "deep learning": 0.343661367893219,
+          "neural networks": 0.3967304527759552,
+          "nlp": 0.35037684440612793,
+          "computer vision": 0.32932940125465393,
+          "generative ai": 0.3318452537059784,
+          "reinforcement learning": 0.31111055612564087,
+          "chatbots": 0.3343803882598877,
+          "autonomous systems": 0.3867610991001129,
+          "predictive analytics": 0.3481794595718384
+        },
+        "data_science": {
+          "big data": 0.19835618138313293,
+          "data analytics": 0.21288762986660004,
+          "data visualization": 0.21720513701438904,
+          "statistical analysis": 0.20378504693508148,
+          "data mining": 0.2121189832687378,
+          "business intelligence": 0.24023635685443878,
+          "data modeling": 0.2058369517326355,
+          "data engineering": 0.21707293391227722,
+          "data governance": 0.16357192397117615,
+          "data pipeline": 0.2272842824459076
+        },
+        "healthcare_tech": {
+          "telemedicine": 0.2943199872970581,
+          "health informatics": 0.31062862277030945,
+          "electronic health records": 0.2830497622489929,
+          "medical devices": 0.2871836721897125,
+          "healthcare analytics": 0.28585031628608704,
+          "remote patient monitoring": 0.30729910731315613,
+          "clinical decision support": 0.36037877202033997,
+          "health data security": 0.24528300762176514,
+          "digital therapeutics": 0.31408125162124634,
+          "precision medicine": 0.29654040932655334
+        }
+      }
+    },
+    {
+      "text": "SpaceX successfully launched their Starship rocket from their Texas facility, marking a new era in space exploration technology.",
+      "categories": {},
+      "tags": {},
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.311745",
+        "char_count": 128,
+        "word_count": 18,
+        "category_confidence": 0.0,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {}
+    },
+    {
+      "text": "Netflix acquired an AI startup in Silicon Valley for $500 million, aiming to enhance their content recommendation algorithms.",
+      "categories": {
+        "artificial_intelligence": 0.2713097929954529
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "predictive analytics",
+          "neural networks",
+          "nlp",
+          "chatbots",
+          "deep learning"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.335713",
+        "char_count": 125,
+        "word_count": 18,
+        "category_confidence": 0.2713097929954529,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.25121384859085083,
+          "deep learning": 0.25853997468948364,
+          "neural networks": 0.2677728235721588,
+          "nlp": 0.2644679546356201,
+          "computer vision": 0.24220134317874908,
+          "generative ai": 0.21252568066120148,
+          "reinforcement learning": 0.23661543428897858,
+          "chatbots": 0.26315805315971375,
+          "autonomous systems": 0.25303134322166443,
+          "predictive analytics": 0.2888089716434479
+        }
+      }
+    },
+    {
+      "text": "The Linux Foundation announced new open-source AI tools at their annual conference in San Francisco, supported by Intel and AMD.",
+      "categories": {
+        "artificial_intelligence": 0.3318145275115967
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "predictive analytics",
+          "deep learning",
+          "neural networks",
+          "autonomous systems",
+          "machine learning"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.361299",
+        "char_count": 128,
+        "word_count": 20,
+        "category_confidence": 0.3318145275115967,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.3188644051551819,
+          "deep learning": 0.3325694501399994,
+          "neural networks": 0.32563382387161255,
+          "nlp": 0.27838021516799927,
+          "computer vision": 0.2850824296474457,
+          "generative ai": 0.2633925676345825,
+          "reinforcement learning": 0.27813398838043213,
+          "chatbots": 0.3004498779773712,
+          "autonomous systems": 0.32065826654434204,
+          "predictive analytics": 0.33380693197250366
+        }
+      }
+    },
+    {
+      "text": "CERN physicists discovered new quantum particles using the Large Hadron Collider, publishing their findings in Nature.",
+      "categories": {},
+      "tags": {},
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.385985",
+        "char_count": 118,
+        "word_count": 16,
+        "category_confidence": 0.0,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {}
+    },
+    {
+      "text": "Pfizer and Moderna collaborated on new gene therapy treatments, with clinical trials starting at Mayo Clinic.",
+      "categories": {
+        "emerging_tech": 0.2012350857257843,
+        "healthcare_tech": 0.24117593467235565
+      },
+      "tags": {
+        "emerging_tech": [
+          "biotechnology"
+        ],
+        "healthcare_tech": [
+          "digital therapeutics",
+          "precision medicine",
+          "clinical decision support",
+          "health informatics",
+          "medical devices"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.410088",
+        "char_count": 109,
+        "word_count": 16,
+        "category_confidence": 0.24117593467235565,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "emerging_tech": {
+          "blockchain": 0.18894563615322113,
+          "quantum computing": 0.1681777983903885,
+          "edge computing": 0.08734971284866333,
+          "5g": 0.13760320842266083,
+          "iot": 0.15939030051231384,
+          "virtual reality": 0.10266762971878052,
+          "augmented reality": 0.13345730304718018,
+          "robotics": 0.16876903176307678,
+          "3d printing": 0.14244350790977478,
+          "biotechnology": 0.38446033000946045
+        },
+        "healthcare_tech": {
+          "telemedicine": 0.20826022326946259,
+          "health informatics": 0.2345164567232132,
+          "electronic health records": 0.20635370910167694,
+          "medical devices": 0.23046104609966278,
+          "healthcare analytics": 0.22218191623687744,
+          "remote patient monitoring": 0.17578384280204773,
+          "clinical decision support": 0.27365222573280334,
+          "health data security": 0.19347229599952698,
+          "digital therapeutics": 0.3397223949432373,
+          "precision medicine": 0.28507402539253235
+        }
+      }
+    },
+    {
+      "text": "The World Economic Forum in Davos focused on AI regulation and ethics, with participation from major tech CEOs and government leaders.",
+      "categories": {
+        "artificial_intelligence": 0.2865043878555298,
+        "emerging_tech": 0.21469241380691528,
+        "enterprise_it": 0.24116279184818268,
+        "digital_marketing": 0.23914599418640137
+      },
+      "tags": {
+        "artificial_intelligence": [
+          "chatbots",
+          "neural networks",
+          "predictive analytics",
+          "machine learning",
+          "autonomous systems"
+        ],
+        "emerging_tech": [
+          "biotechnology",
+          "robotics"
+        ],
+        "enterprise_it": [
+          "it governance",
+          "it infrastructure",
+          "network management",
+          "it service management",
+          "enterprise architecture"
+        ],
+        "digital_marketing": [
+          "content marketing",
+          "brand strategy",
+          "digital advertising",
+          "seo",
+          "marketing automation"
+        ]
+      },
+      "metadata": {
+        "timestamp": "2024-12-01T10:26:37.435663",
+        "char_count": 134,
+        "word_count": 21,
+        "category_confidence": 0.2865043878555298,
+        "processing_version": "1.0"
+      },
+      "similarity_scores": {
+        "artificial_intelligence": {
+          "machine learning": 0.2668592035770416,
+          "deep learning": 0.26321715116500854,
+          "neural networks": 0.2995454967021942,
+          "nlp": 0.23028209805488586,
+          "computer vision": 0.2521914541721344,
+          "generative ai": 0.24255551397800446,
+          "reinforcement learning": 0.2270573079586029,
+          "chatbots": 0.3070649206638336,
+          "autonomous systems": 0.2649754583835602,
+          "predictive analytics": 0.268003910779953
+        },
+        "emerging_tech": {
+          "blockchain": 0.18978190422058105,
+          "quantum computing": 0.149725541472435,
+          "edge computing": 0.13730862736701965,
+          "5g": 0.12440845370292664,
+          "iot": 0.15507972240447998,
+          "virtual reality": 0.1797879934310913,
+          "augmented reality": 0.15531060099601746,
+          "robotics": 0.21290045976638794,
+          "3d printing": 0.09478418529033661,
+          "biotechnology": 0.23042352497577667
+        },
+        "enterprise_it": {
+          "enterprise architecture": 0.22194541990756989,
+          "it infrastructure": 0.24797698855400085,
+          "system integration": 0.21375137567520142,
+          "it service management": 0.22341899573802948,
+          "network management": 0.2337012141942978,
+          "it governance": 0.26134657859802246,
+          "enterprise security": 0.20326228439807892,
+          "backup solutions": 0.1905086785554886,
+          "disaster recovery": 0.2062089592218399,
+          "compliance management": 0.22124230861663818
+        },
+        "digital_marketing": {
+          "content marketing": 0.23954151570796967,
+          "social media": 0.1853615939617157,
+          "seo": 0.2263508141040802,
+          "email marketing": 0.203777015209198,
+          "marketing automation": 0.22211715579032898,
+          "digital advertising": 0.2282189428806305,
+          "marketing analytics": 0.21006634831428528,
+          "brand strategy": 0.22914443910121918,
+          "lead generation": 0.2016509473323822,
+          "conversion optimization": 0.18163296580314636
+        }
+      }
+    }
+  ]
+}

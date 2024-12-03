@@ -1,0 +1,300 @@
+{
+  "num_documents": 20,
+  "avg_categories_per_doc": 1.6,
+  "avg_tags_per_category": {
+    "artificial_intelligence": 5.0,
+    "emerging_tech": 3.44,
+    "business_strategy": 5.0,
+    "healthcare_tech": 4.8,
+    "cloud_computing": 5.0,
+    "data_science": 5.0,
+    "enterprise_it": 5.0,
+    "digital_marketing": 5.0
+  },
+  "category_distribution": {
+    "artificial_intelligence": {
+      "count": 9,
+      "avg_confidence": 0.332
+    },
+    "emerging_tech": {
+      "count": 9,
+      "avg_confidence": 0.231
+    },
+    "healthcare_tech": {
+      "count": 5,
+      "avg_confidence": 0.298
+    },
+    "business_strategy": {
+      "count": 2,
+      "avg_confidence": 0.23
+    },
+    "data_science": {
+      "count": 2,
+      "avg_confidence": 0.259
+    },
+    "enterprise_it": {
+      "count": 2,
+      "avg_confidence": 0.243
+    },
+    "digital_marketing": {
+      "count": 2,
+      "avg_confidence": 0.226
+    },
+    "cloud_computing": {
+      "count": 1,
+      "avg_confidence": 0.367
+    }
+  },
+  "tag_distribution": {
+    "artificial_intelligence": {
+      "neural networks": 9,
+      "machine learning": 8,
+      "predictive analytics": 7,
+      "deep learning": 7,
+      "autonomous systems": 6,
+      "chatbots": 3,
+      "nlp": 2,
+      "generative ai": 1,
+      "computer vision": 1,
+      "reinforcement learning": 1
+    },
+    "emerging_tech": {
+      "biotechnology": 6,
+      "edge computing": 5,
+      "robotics": 5,
+      "quantum computing": 5,
+      "iot": 3,
+      "virtual reality": 2,
+      "augmented reality": 2,
+      "5g": 1,
+      "3d printing": 1,
+      "blockchain": 1
+    },
+    "business_strategy": {
+      "competitive intelligence": 2,
+      "innovation strategy": 2,
+      "process optimization": 2,
+      "growth strategy": 1,
+      "business modeling": 1,
+      "risk management": 1,
+      "change management": 1
+    },
+    "healthcare_tech": {
+      "precision medicine": 4,
+      "clinical decision support": 4,
+      "remote patient monitoring": 3,
+      "digital therapeutics": 3,
+      "healthcare analytics": 2,
+      "medical devices": 2,
+      "health data security": 2,
+      "health informatics": 2,
+      "electronic health records": 1,
+      "telemedicine": 1
+    },
+    "cloud_computing": {
+      "cloud storage": 1,
+      "microservices": 1,
+      "saas": 1,
+      "multi-cloud": 1,
+      "distributed systems": 1
+    },
+    "data_science": {
+      "data pipeline": 2,
+      "data analytics": 2,
+      "business intelligence": 2,
+      "data visualization": 2,
+      "big data": 1,
+      "data engineering": 1
+    },
+    "enterprise_it": {
+      "it service management": 2,
+      "network management": 2,
+      "disaster recovery": 1,
+      "backup solutions": 1,
+      "compliance management": 1,
+      "it governance": 1,
+      "it infrastructure": 1,
+      "enterprise architecture": 1
+    },
+    "digital_marketing": {
+      "marketing automation": 2,
+      "brand strategy": 2,
+      "lead generation": 1,
+      "social media": 1,
+      "marketing analytics": 1,
+      "content marketing": 1,
+      "digital advertising": 1,
+      "seo": 1
+    }
+  },
+  "category_correlations": {
+    "artificial_intelligence": {
+      "cloud_computing": 0.0,
+      "data_science": 0.05,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.15,
+      "business_strategy": 0.0,
+      "enterprise_it": 0.05,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.05,
+      "project_management": 0.0,
+      "healthcare_tech": 0.05
+    },
+    "cloud_computing": {
+      "artificial_intelligence": 0.0,
+      "data_science": 0.05,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.05,
+      "business_strategy": 0.05,
+      "enterprise_it": 0.05,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.0,
+      "project_management": 0.0,
+      "healthcare_tech": 0.05
+    },
+    "data_science": {
+      "artificial_intelligence": 0.05,
+      "cloud_computing": 0.05,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.05,
+      "business_strategy": 0.05,
+      "enterprise_it": 0.05,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.0,
+      "project_management": 0.0,
+      "healthcare_tech": 0.1
+    },
+    "cybersecurity": {
+      "artificial_intelligence": 0.0,
+      "cloud_computing": 0.0,
+      "data_science": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.0,
+      "business_strategy": 0.0,
+      "enterprise_it": 0.0,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.0,
+      "project_management": 0.0,
+      "healthcare_tech": 0.0
+    },
+    "software_development": {
+      "artificial_intelligence": 0.0,
+      "cloud_computing": 0.0,
+      "data_science": 0.0,
+      "cybersecurity": 0.0,
+      "emerging_tech": 0.0,
+      "business_strategy": 0.0,
+      "enterprise_it": 0.0,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.0,
+      "project_management": 0.0,
+      "healthcare_tech": 0.0
+    },
+    "emerging_tech": {
+      "artificial_intelligence": 0.15,
+      "cloud_computing": 0.05,
+      "data_science": 0.05,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "business_strategy": 0.1,
+      "enterprise_it": 0.1,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.1,
+      "project_management": 0.0,
+      "healthcare_tech": 0.2
+    },
+    "business_strategy": {
+      "artificial_intelligence": 0.0,
+      "cloud_computing": 0.05,
+      "data_science": 0.05,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.1,
+      "enterprise_it": 0.05,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.0,
+      "project_management": 0.0,
+      "healthcare_tech": 0.1
+    },
+    "enterprise_it": {
+      "artificial_intelligence": 0.05,
+      "cloud_computing": 0.05,
+      "data_science": 0.05,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.1,
+      "business_strategy": 0.05,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.05,
+      "project_management": 0.0,
+      "healthcare_tech": 0.05
+    },
+    "customer_experience": {
+      "artificial_intelligence": 0.0,
+      "cloud_computing": 0.0,
+      "data_science": 0.0,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.0,
+      "business_strategy": 0.0,
+      "enterprise_it": 0.0,
+      "digital_marketing": 0.0,
+      "project_management": 0.0,
+      "healthcare_tech": 0.0
+    },
+    "digital_marketing": {
+      "artificial_intelligence": 0.05,
+      "cloud_computing": 0.0,
+      "data_science": 0.0,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.1,
+      "business_strategy": 0.0,
+      "enterprise_it": 0.05,
+      "customer_experience": 0.0,
+      "project_management": 0.0,
+      "healthcare_tech": 0.0
+    },
+    "project_management": {
+      "artificial_intelligence": 0.0,
+      "cloud_computing": 0.0,
+      "data_science": 0.0,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.0,
+      "business_strategy": 0.0,
+      "enterprise_it": 0.0,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.0,
+      "healthcare_tech": 0.0
+    },
+    "healthcare_tech": {
+      "artificial_intelligence": 0.05,
+      "cloud_computing": 0.05,
+      "data_science": 0.1,
+      "cybersecurity": 0.0,
+      "software_development": 0.0,
+      "emerging_tech": 0.2,
+      "business_strategy": 0.1,
+      "enterprise_it": 0.05,
+      "customer_experience": 0.0,
+      "digital_marketing": 0.0,
+      "project_management": 0.0
+    }
+  },
+  "confidence_metrics": {
+    "categories": {
+      "avg_confidence": 0.276,
+      "min_confidence": 0.201,
+      "max_confidence": 0.528
+    },
+    "tags": {
+      "avg_confidence": 0.257,
+      "min_confidence": 0.087,
+      "max_confidence": 0.597
+    }
+  }
+}

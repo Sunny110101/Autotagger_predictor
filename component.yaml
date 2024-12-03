@@ -1,0 +1,29 @@
+name: AutoTagger Component
+description: Component for automatically tagging documents with categories and topics
+inputs:
+  - {name: input_file, type: Dataset, description: 'Input JSON file containing documents to be tagged'}
+  - {name: metadata_file, type: Dataset, description: 'JSON file containing category definitions and tag metadata'}
+  - {name: batch_size, type: Integer, default: '32', description: 'Batch size for processing documents', optional: true}
+outputs:
+  - {name: output_file, type: Dataset, description: 'Tagged documents with predictions and metadata'}
+implementation:
+  container:
+    image: ravidocker189/autotagger:1.0
+    command: ["python"]
+    args: [
+      -u, tagtest.py,
+      "--input-file", {inputPath: input_file},
+      "--metadata-file", {inputPath: metadata_file},
+      "--batch-size", {inputValue: batch_size},
+      "--output-file", {outputPath: output_file}
+    ]
+metadata:
+  labels:
+    task: text-tagging
+    domain: nlp
+  annotations:
+    model: all-MiniLM-L6-v2
+requirements:
+  cpu: 1
+  memory: "4Gi"
+  gpu: "optional"

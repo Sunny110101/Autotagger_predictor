@@ -1,0 +1,249 @@
+{
+    "metadata": {
+      "version": "1.0",
+      "last_updated": "2024-11-29",
+      "description": "Comprehensive taxonomy for content classification and tagging"
+    },
+    "categories": {
+      "artificial_intelligence": {
+        "tags": [
+          "machine learning",
+          "deep learning",
+          "neural networks",
+          "nlp",
+          "computer vision",
+          "generative ai",
+          "reinforcement learning",
+          "chatbots",
+          "autonomous systems",
+          "predictive analytics"
+        ],
+        "descriptions": [
+          "AI and machine learning technologies and applications",
+          "Natural language processing and understanding",
+          "Computer vision and image processing systems",
+          "AI-powered automation and decision making"
+        ]
+      },
+      "cloud_computing": {
+        "tags": [
+          "saas",
+          "cloud infrastructure",
+          "microservices",
+          "containerization",
+          "cloud security",
+          "serverless",
+          "cloud storage",
+          "distributed systems",
+          "cloud migration",
+          "multi-cloud"
+        ],
+        "descriptions": [
+          "Cloud platforms and services",
+          "Cloud infrastructure and architecture",
+          "Cloud deployment and management",
+          "Cloud security and compliance"
+        ]
+      },
+      "data_science": {
+        "tags": [
+          "big data",
+          "data analytics",
+          "data visualization",
+          "statistical analysis",
+          "data mining",
+          "business intelligence",
+          "data modeling",
+          "data engineering",
+          "data governance",
+          "data pipeline"
+        ],
+        "descriptions": [
+          "Data analysis and insights generation",
+          "Data processing and management",
+          "Business intelligence and analytics",
+          "Data-driven decision making"
+        ]
+      },
+      "cybersecurity": {
+        "tags": [
+          "network security",
+          "information security",
+          "encryption",
+          "threat detection",
+          "vulnerability assessment",
+          "incident response",
+          "security compliance",
+          "penetration testing",
+          "identity management",
+          "zero trust"
+        ],
+        "descriptions": [
+          "Information and network security",
+          "Security operations and management",
+          "Threat detection and response",
+          "Security compliance and governance"
+        ]
+      },
+      "software_development": {
+        "tags": [
+          "web development",
+          "mobile development",
+          "devops",
+          "api development",
+          "software architecture",
+          "agile methodology",
+          "testing automation",
+          "version control",
+          "continuous integration",
+          "code quality"
+        ],
+        "descriptions": [
+          "Software development practices and methodologies",
+          "Application development and architecture",
+          "Development operations and automation",
+          "Software quality and testing"
+        ]
+      },
+      "emerging_tech": {
+        "tags": [
+          "blockchain",
+          "quantum computing",
+          "edge computing",
+          "5g",
+          "iot",
+          "virtual reality",
+          "augmented reality",
+          "robotics",
+          "3d printing",
+          "biotechnology"
+        ],
+        "descriptions": [
+          "Emerging and disruptive technologies",
+          "Future technology trends",
+          "Innovative technological solutions",
+          "Next-generation technology adoption"
+        ]
+      },
+      "business_strategy": {
+        "tags": [
+          "digital transformation",
+          "innovation strategy",
+          "market analysis",
+          "competitive intelligence",
+          "change management",
+          "risk management",
+          "strategic planning",
+          "business modeling",
+          "growth strategy",
+          "process optimization"
+        ],
+        "descriptions": [
+          "Business strategy and planning",
+          "Digital transformation initiatives",
+          "Strategic business development",
+          "Organizational change and innovation"
+        ]
+      },
+      "enterprise_it": {
+        "tags": [
+          "enterprise architecture",
+          "it infrastructure",
+          "system integration",
+          "it service management",
+          "network management",
+          "it governance",
+          "enterprise security",
+          "backup solutions",
+          "disaster recovery",
+          "compliance management"
+        ],
+        "descriptions": [
+          "Enterprise IT infrastructure and operations",
+          "IT service delivery and management",
+          "Enterprise systems and integration",
+          "IT governance and compliance"
+        ]
+      },
+      "customer_experience": {
+        "tags": [
+          "user experience",
+          "customer service",
+          "customer engagement",
+          "personalization",
+          "omnichannel",
+          "customer analytics",
+          "customer journey",
+          "crm",
+          "customer feedback",
+          "service design"
+        ],
+        "descriptions": [
+          "Customer experience and engagement",
+          "User experience design and optimization",
+          "Customer relationship management",
+          "Service delivery and support"
+        ]
+      },
+      "digital_marketing": {
+        "tags": [
+          "content marketing",
+          "social media",
+          "seo",
+          "email marketing",
+          "marketing automation",
+          "digital advertising",
+          "marketing analytics",
+          "brand strategy",
+          "lead generation",
+          "conversion optimization"
+        ],
+        "descriptions": [
+          "Digital marketing strategies and campaigns",
+          "Marketing automation and analytics",
+          "Content strategy and management",
+          "Digital brand development"
+        ]
+      },
+      "project_management": {
+        "tags": [
+          "project planning",
+          "resource management",
+          "task tracking",
+          "risk assessment",
+          "project scheduling",
+          "team collaboration",
+          "milestone tracking",
+          "budget management",
+          "stakeholder management",
+          "project governance"
+        ],
+        "descriptions": [
+          "Project planning and execution",
+          "Resource allocation and management",
+          "Project monitoring and control",
+          "Project delivery and governance"
+        ]
+      },
+      "healthcare_tech": {
+        "tags": [
+          "telemedicine",
+          "health informatics",
+          "electronic health records",
+          "medical devices",
+          "healthcare analytics",
+          "remote patient monitoring",
+          "clinical decision support",
+          "health data security",
+          "digital therapeutics",
+          "precision medicine"
+        ],
+        "descriptions": [
+          "Healthcare technology solutions",
+          "Digital health innovations",
+          "Medical technology applications",
+          "Healthcare data management"
+        ]
+      }
+    }
+  }
